@@ -1,0 +1,22 @@
+CSE 208, 308, 408 Project Device List
+	Ethan Belculfine
+	Adeeb Alqahtani
+	Abdulrahman Aljurbua
+	
+Devices:
+	Arduino MEGA 250 Board (2)
+	Arduino Hardware Components Kit - includes wires, solderless breadboard, LED's, etc (2)
+	Phantom YoYo Arduino compatible Mini Luminance Light Sensor (2)
+	HC-SR04 Ultrasonic Sensor (4)
+	EMY 5 X HC-SR501 Adjust Ir Pyroelectric Infrared PIR Motion Sensor Detector Modules (4)
+	SMKAN 8 Channel DC 12V Relay Module for Arduino (2)
+	DHT11 Temperature & Humidity Sensor Module (1)
+	RF 433MHz Receiver (2)
+	RF 433MHz Transceiver (2)
+	110V AC Socket to USB Adapter (1)
+	40W Light Bulbs (4)
+	40W Light Bulb Sockets (4)
+	LED strip (2)
+	15 Amp 125-Volt 3-Wire Plug (2)
+	Surge Protector with USB connectors (1)
+	
